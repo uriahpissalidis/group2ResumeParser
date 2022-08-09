@@ -1,7 +1,9 @@
-# ResConnect
+# ResConnect (Group 2)
+
 ![ezgif-3-b99fa1f37b](https://user-images.githubusercontent.com/55722392/178073146-50998a2a-d78f-4ea8-a122-7bfd84ce50ed.gif)
 
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 ResConnect is a resume parsing tool that helps users connect to job recruiters. Users are able to upload a resume and it will be parsed and sorted based on a job description. HR will have access to a dashboard so that they can search and filter for specific key words.
@@ -24,13 +26,15 @@ ResConnect is a resume parsing tool that helps users connect to job recruiters. 
 ![5](https://user-images.githubusercontent.com/55722392/178073824-7cd89ae0-5bc4-497d-a3e4-f3f238c1d7a4.png)
 
 ## Tools
- * ReactJS
- * Bootstrap 5
- * React Router
- * Font Awesome
- * SheetJS
+
+- ReactJS
+- Bootstrap 5
+- React Router
+- Font Awesome
+- SheetJS
 
 <!-- ROADMAP -->
+
 ## Roadmap
 
 - [x] File upload
@@ -46,4 +50,3 @@ ResConnect is a resume parsing tool that helps users connect to job recruiters. 
 - [ ] Send data from frontend to back end
 - [ ] Create dashboard organizing data
 - [ ] Search filter to sort applicants based on job description
-
